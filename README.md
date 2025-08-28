@@ -42,7 +42,7 @@ The **HR Dashboard** is an interactive Power BI report designed to analyze and v
 ## 📸 Dashboard Preview
 Here’s a preview of the final dashboard:  
 
-![HR Dashboard Screenshot](./images/)  
+![HR Dashboard Screenshot](HR_Dashboard_Preview.png)  
 
 ---
 
